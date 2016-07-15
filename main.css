@@ -1,0 +1,76 @@
+html {
+    background: #e6e9e9;
+    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+    -webkit-font-smoothing: antialiased;
+}
+
+td[colspan="7"] {
+    font-size: 15px;
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+.black {
+    font-size: 16px;
+    color: #000000;
+    font-family: å¾®è»Ÿæ­£é»‘é«”;
+    font-weight: bolder;
+}
+
+.red {
+    font-size: 15px;
+    color: #CC0000;
+    font-weight: bolder;
+    font-family: å¾®è»Ÿæ­£é»‘é«”;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+
+.redcircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 50px;
+    text-align: center;
+    background: #CC0000;
+}
+
+.blank {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 50px;
+    text-align: center;
+    background: #ffffb3;
+}
+
+.border {
+    border: 1.5px;
+    border-style: dashed;
+    border-color: #ffaa00;
+    background: #ffffb3;
+}
+
+.mid-border {
+    border-right: 1.5px;
+    border-right-style: dashed;
+    border-right-color: #ffaa00;
+}
